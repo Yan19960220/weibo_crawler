@@ -1,0 +1,28 @@
+{
+    "user_id_list": ["1555113427"],
+    "filter": 1,
+    "since_date": "2020-01-01",
+    "end_date": "now",
+    "random_wait_pages": [1, 5],
+    "random_wait_seconds": [6, 10],
+    "global_wait": [[1000, 3600], [500, 2000]],
+    "write_mode": ["csv", "txt"],
+    "pic_download": 1,
+    "video_download": 1,
+	"file_download_timeout": [5, 5, 10],
+	"result_dir_name": 0,
+    "cookie": "SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5K3TLau8c8ZxBM_.ib3H1d5NHD95QfShqRSoqf1K50Ws4Dqcjdi--fiKysi-8si--fi-2Xi-24i--ciK.RiKy8; SSOLoginState=1636123035; SUB=_2A25MgTHLDeRhGeNK7VoX9ivFyz-IHXVvil-DrDV8PUJbkNAfLVnEkW1NSUTbvQ_2mqCIovsAwnnU9iI7JmOkR6lL; _s_tentry=www.google.com; UOR=www.google.com,kefu.weibo.com,www.google.com; Apache=676215441464.7336.1636209339082; SINAGLOBAL=676215441464.7336.1636209339082; ULV=1636209339086:1:1:1:676215441464.7336.1636209339082:; wvr=6",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "charset": "utf8mb4"
+    },
+    "kafka_config": {
+        "bootstrap-server": "127.0.0.1:9092",
+        "weibo_topics": ["spider_weibo"],
+        "user_topics": ["spider_weibo"]
+    },
+    "sqlite_config": "weibo.db"
+}

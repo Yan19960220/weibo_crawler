@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b124153-b8aa-4fbd-92bb-f06718ebf0b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20VCe0ES6le2WCHUD5ITshsCrlg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spider/user" />
+      <recent name="$PROJECT_DIR$/spider" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spider/utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.topic">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="spider_weibo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/projectlibre/anaconda3/python.app/Contents/MacOS/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="topic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_weibo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider/topic" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/topic/topic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.topic" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.topic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b124153-b8aa-4fbd-92bb-f06718ebf0b1" name="Default Changelist" comment="" />
+      <created>1636120459319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636120459319</updated>
+      <workItem from="1636120460569" duration="1324000" />
+      <workItem from="1636121807573" duration="2846000" />
+      <workItem from="1636127082308" duration="1637000" />
+      <workItem from="1636290968120" duration="2469000" />
+      <workItem from="1636293580216" duration="6102000" />
+      <workItem from="1636375452997" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="20" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636291787418">
+      <screen x="0" y="0" width="1112" height="834" />
+    </state>
+    <state x="20" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1112.834@0.0.1112.834" timestamp="1636291787418" />
+    <state x="286" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636123683042">
+      <screen x="0" y="0" width="1112" height="834" />
+    </state>
+    <state x="286" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1112.834@0.0.1112.834" timestamp="1636123683042" />
+    <state x="315" y="292" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1636124443209">
+      <screen x="0" y="0" width="1112" height="834" />
+    </state>
+    <state x="315" y="292" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1112.834@0.0.1112.834" timestamp="1636124443209" />
+    <state width="1013" height="222" key="GridCell.Tab.0.bottom" timestamp="1636375563753">
+      <screen x="57" y="0" width="1055" height="834" />
+    </state>
+    <state width="1070" height="223" key="GridCell.Tab.0.bottom/0.0.1112.834@0.0.1112.834" timestamp="1636299033245" />
+    <state width="1011" height="223" key="GridCell.Tab.0.bottom/55.0.1057.834@55.0.1057.834" timestamp="1636372368959" />
+    <state width="1013" height="222" key="GridCell.Tab.0.bottom/57.0.1055.834@57.0.1055.834" timestamp="1636375563753" />
+    <state width="1013" height="222" key="GridCell.Tab.0.center" timestamp="1636375563753">
+      <screen x="57" y="0" width="1055" height="834" />
+    </state>
+    <state width="1070" height="223" key="GridCell.Tab.0.center/0.0.1112.834@0.0.1112.834" timestamp="1636299033244" />
+    <state width="1011" height="223" key="GridCell.Tab.0.center/55.0.1057.834@55.0.1057.834" timestamp="1636372368957" />
+    <state width="1013" height="222" key="GridCell.Tab.0.center/57.0.1055.834@57.0.1055.834" timestamp="1636375563753" />
+    <state width="1013" height="222" key="GridCell.Tab.0.left" timestamp="1636375563752">
+      <screen x="57" y="0" width="1055" height="834" />
+    </state>
+    <state width="1070" height="223" key="GridCell.Tab.0.left/0.0.1112.834@0.0.1112.834" timestamp="1636299033243" />
+    <state width="1011" height="223" key="GridCell.Tab.0.left/55.0.1057.834@55.0.1057.834" timestamp="1636372368957" />
+    <state width="1013" height="222" key="GridCell.Tab.0.left/57.0.1055.834@57.0.1055.834" timestamp="1636375563752" />
+    <state width="1013" height="222" key="GridCell.Tab.0.right" timestamp="1636375563753">
+      <screen x="57" y="0" width="1055" height="834" />
+    </state>
+    <state width="1070" height="223" key="GridCell.Tab.0.right/0.0.1112.834@0.0.1112.834" timestamp="1636299033245" />
+    <state width="1011" height="223" key="GridCell.Tab.0.right/55.0.1057.834@55.0.1057.834" timestamp="1636372368959" />
+    <state width="1013" height="222" key="GridCell.Tab.0.right/57.0.1055.834@57.0.1055.834" timestamp="1636375563753" />
+    <state width="1070" height="277" key="GridCell.Tab.1.bottom" timestamp="1636372366122">
+      <screen x="55" y="0" width="1057" height="834" />
+    </state>
+    <state width="1070" height="277" key="GridCell.Tab.1.bottom/0.0.1112.834@0.0.1112.834" timestamp="1636296662415" />
+    <state width="1070" height="277" key="GridCell.Tab.1.bottom/55.0.1057.834@55.0.1057.834" timestamp="1636372366122" />
+    <state width="1070" height="277" key="GridCell.Tab.1.center" timestamp="1636372366121">
+      <screen x="55" y="0" width="1057" height="834" />
+    </state>
+    <state width="1070" height="277" key="GridCell.Tab.1.center/0.0.1112.834@0.0.1112.834" timestamp="1636296662413" />
+    <state width="1070" height="277" key="GridCell.Tab.1.center/55.0.1057.834@55.0.1057.834" timestamp="1636372366121" />
+    <state width="1070" height="277" key="GridCell.Tab.1.left" timestamp="1636372366120">
+      <screen x="55" y="0" width="1057" height="834" />
+    </state>
+    <state width="1070" height="277" key="GridCell.Tab.1.left/0.0.1112.834@0.0.1112.834" timestamp="1636296662412" />
+    <state width="1070" height="277" key="GridCell.Tab.1.left/55.0.1057.834@55.0.1057.834" timestamp="1636372366120" />
+    <state width="1070" height="277" key="GridCell.Tab.1.right" timestamp="1636372366121">
+      <screen x="55" y="0" width="1057" height="834" />
+    </state>
+    <state width="1070" height="277" key="GridCell.Tab.1.right/0.0.1112.834@0.0.1112.834" timestamp="1636296662414" />
+    <state width="1070" height="277" key="GridCell.Tab.1.right/55.0.1057.834@55.0.1057.834" timestamp="1636372366121" />
+    <state x="117" y="53" key="SettingsEditor" timestamp="1636299870351">
+      <screen x="55" y="0" width="1057" height="834" />
+    </state>
+    <state x="65" y="53" key="SettingsEditor/0.0.1112.834@0.0.1112.834" timestamp="1636291760286" />
+    <state x="117" y="53" key="SettingsEditor/55.0.1057.834@55.0.1057.834" timestamp="1636299870351" />
+    <state width="556" height="417" key="XDebugger.FullValuePopup" timestamp="1636295162355">
+      <screen x="0" y="0" width="1112" height="834" />
+    </state>
+    <state width="556" height="417" key="XDebugger.FullValuePopup/0.0.1112.834@0.0.1112.834" timestamp="1636295162355" />
+    <state x="211" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1636293582623">
+      <screen x="0" y="0" width="1112" height="834" />
+    </state>
+    <state x="211" y="248" key="com.intellij.ide.util.TipDialog/0.0.1112.834@0.0.1112.834" timestamp="1636293582623" />
+    <state x="216" y="70" width="680" height="693" key="find.popup" timestamp="1636124850879">
+      <screen x="0" y="0" width="1112" height="834" />
+    </state>
+    <state x="216" y="70" width="680" height="693" key="find.popup/0.0.1112.834@0.0.1112.834" timestamp="1636124850879" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spider_weibo$main.coverage" NAME="main Coverage Results" MODIFIED="1636125163427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider_weibo$topic.coverage" NAME="topic Coverage Results" MODIFIED="1636375457800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/topic" />
+  </component>
+</project>

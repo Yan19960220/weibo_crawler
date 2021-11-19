@@ -1,0 +1,443 @@
+2021-11-07 14:30:01,164 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 14:30:05,027 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 118, in download
+    content.write(m_name)
+TypeError: a bytes-like object is required, not 'str'
+
+2021-11-07 14:30:22,150 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 109, in download
+    html = urlopen(req).read()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 465, in read
+    return self._readall_chunked()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 575, in _readall_chunked
+    value.append(self._safe_read(chunk_left))
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 612, in _safe_read
+    data = self.fp.read(amt)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+
+2021-11-07 14:30:31,794 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 14:30:36,639 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 118, in download
+    content.write(m_name)
+TypeError: a bytes-like object is required, not 'str'
+
+2021-11-07 14:30:50,174 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 118, in download
+    content.write(m_name)
+TypeError: a bytes-like object is required, not 'str'
+
+2021-11-07 14:31:06,011 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 118, in download
+    content.write(m_name)
+TypeError: a bytes-like object is required, not 'str'
+
+2021-11-07 14:31:18,975 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 118, in download
+    content.write(m_name)
+TypeError: a bytes-like object is required, not 'str'
+
+2021-11-07 14:31:18,975 - main.CollectData - ERROR: Internet Connect Error!
+2021-11-07 14:31:18,975 - main.CollectData - INFO: url: http://s.weibo.com/weibo?q=S11&typeall=1&suball=1&timescope=custom:2021-09-01-10:2021-11-01-16&Refer=g&page=1
+2021-11-07 14:31:18,975 - main.CollectData - INFO: page: 1
+2021-11-07 14:31:18,975 - main.CollectData - ERROR: Network Not Connected!
+2021-11-07 14:37:59,826 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 14:38:22,675 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 118, in download
+    content.write(m_name)
+TypeError: a bytes-like object is required, not 'str'
+
+2021-11-07 14:48:56,585 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 14:49:38,906 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 118, in download
+    content.write(str(m_name))
+TypeError: a bytes-like object is required, not 'str'
+
+2021-11-07 14:51:54,130 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 14:53:16,069 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 14:55:23,759 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 14:56:50,077 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 120, in download
+    content.write(s_content)
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 120, in download
+    content.write(s_content)
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 1029, in _pydevd_bundle.pydevd_cython_darwin_38_64.SafeCallWrapper.__call__
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 557, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 952, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 914, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 279, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.do_wait_suspend
+  File "/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevd.py", line 1099, in do_wait_suspend
+    self._do_wait_suspend(thread, frame, event, arg, suspend_type, from_this_thread)
+  File "/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevd.py", line 1114, in _do_wait_suspend
+    time.sleep(0.01)
+KeyboardInterrupt
+
+2021-11-07 14:57:02,039 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 14:57:06,301 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 116, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 14:57:23,608 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 116, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 14:57:37,264 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 116, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 14:57:54,015 - main.CollectData - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 116, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 14:57:54,015 - main.CollectData - ERROR: Internet Connect Error!
+2021-11-07 14:57:54,015 - main.CollectData - INFO: url: http://s.weibo.com/weibo?q=S11&typeall=1&suball=1&timescope=custom:2021-09-01-10:2021-11-01-16&Refer=g&page=1
+2021-11-07 14:57:54,015 - main.CollectData - INFO: page: 1
+2021-11-07 14:57:54,015 - main.CollectData - ERROR: Network Not Connected!
+2021-11-07 15:07:02,804 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 15:07:08,452 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 15:07:47,550 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 15:08:03,360 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 15:08:16,627 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 15:08:16,627 - main.Topic - ERROR: Internet Connect Error!
+2021-11-07 15:08:16,628 - main.Topic - INFO: url: http://s.weibo.com/weibo?q=S11&typeall=1&suball=1&timescope=custom:2021-09-01-10:2021-11-01-16&Refer=g&page=1
+2021-11-07 15:08:16,628 - main.Topic - INFO: page: 1
+2021-11-07 15:08:16,628 - main.Topic - ERROR: Network Not Connected!
+2021-11-07 15:17:56,608 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 15:18:02,379 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 15:18:16,406 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 15:18:29,657 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 15:18:43,092 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    m_content = [item.strip() for item in m_text.contents if
+AttributeError: 'NoneType' object has no attribute 'contents'
+
+2021-11-07 15:18:43,092 - main.Topic - ERROR: Internet Connect Error!
+2021-11-07 15:18:43,092 - main.Topic - INFO: url: http://s.weibo.com/weibo?q=S11&typeall=1&suball=1&timescope=custom:2021-09-01-10:2021-11-01-16&Refer=g&page=1
+2021-11-07 15:18:43,092 - main.Topic - INFO: page: 1
+2021-11-07 15:18:43,092 - main.Topic - ERROR: Network Not Connected!
+2021-11-07 15:19:42,187 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 15:22:10,603 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    c                            m_content = [item.strip() for item in m_text.contents if
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    c                            m_content = [item.strip() for item in m_text.contents if
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 1029, in _pydevd_bundle.pydevd_cython_darwin_38_64.SafeCallWrapper.__call__
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 557, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 952, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 914, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 279, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.do_wait_suspend
+  File "/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevd.py", line 1099, in do_wait_suspend
+    self._do_wait_suspend(thread, frame, event, arg, suspend_type, from_this_thread)
+  File "/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevd.py", line 1114, in _do_wait_suspend
+    time.sleep(0.01)
+KeyboardInterrupt
+
+2021-11-07 15:22:22,154 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 15:22:25,593 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 117, in download
+    m_name = tag.find('p').get('nick-name')
+AttributeError: 'NoneType' object has no attribute 'get'
+
+2021-11-07 15:22:40,454 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 117, in download
+    m_name = tag.find('p').get('nick-name')
+AttributeError: 'NoneType' object has no attribute 'get'
+
+2021-11-07 15:22:54,755 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 117, in download
+    m_name = tag.find('p').get('nick-name')
+AttributeError: 'NoneType' object has no attribute 'get'
+
+2021-11-07 15:23:08,962 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 117, in download
+    m_name = tag.find('p').get('nick-name')
+AttributeError: 'NoneType' object has no attribute 'get'
+
+2021-11-07 15:23:08,962 - main.Topic - ERROR: Internet Connect Error!
+2021-11-07 15:23:08,962 - main.Topic - INFO: url: http://s.weibo.com/weibo?q=S11&typeall=1&suball=1&timescope=custom:2021-09-01-10:2021-11-01-16&Refer=g&page=1
+2021-11-07 15:23:08,962 - main.Topic - INFO: page: 1
+2021-11-07 15:23:08,962 - main.Topic - ERROR: Network Not Connected!
+2021-11-07 15:25:15,739 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 15:32:19,420 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 117, in download
+    if tag.find('p') is None
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 117, in download
+    if tag.find('p') is None
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 1029, in _pydevd_bundle.pydevd_cython_darwin_38_64.SafeCallWrapper.__call__
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 557, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 952, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 914, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 279, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.do_wait_suspend
+  File "/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevd.py", line 1099, in do_wait_suspend
+    self._do_wait_suspend(thread, frame, event, arg, suspend_type, from_this_thread)
+  File "/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevd.py", line 1114, in _do_wait_suspend
+    time.sleep(0.01)
+KeyboardInterrupt
+
+2021-11-07 15:33:29,156 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 15:36:40,144 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 120, in download
+    m_text = tag.find('p', class_='txt')
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 120, in download
+    m_text = tag.find('p', class_='txt')
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 1029, in _pydevd_bundle.pydevd_cython_darwin_38_64.SafeCallWrapper.__call__
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 557, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 952, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 914, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.trace_dispatch
+  File "_pydevd_bundle/pydevd_cython_darwin_38_64.pyx", line 279, in _pydevd_bundle.pydevd_cython_darwin_38_64.PyDBFrame.do_wait_suspend
+  File "/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevd.py", line 1099, in do_wait_suspend
+    self._do_wait_suspend(thread, frame, event, arg, suspend_type, from_this_thread)
+  File "/Applications/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevd.py", line 1114, in _do_wait_suspend
+    time.sleep(0.01)
+KeyboardInterrupt
+
+2021-11-07 15:51:06,595 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 15:53:33,422 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 15:59:12,616 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 16:00:08,846 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 16:10:41,789 - main - INFO: 2021-11-01-17:2021-11-01-17
+2021-11-07 16:29:22,779 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 16:30:36,248 - main - INFO: 2021-09-01-10:2021-11-01-16
+2021-11-07 16:40:07,490 - main - INFO: 2021-10-11-10:2021-11-05-12
+2021-11-07 17:02:05,275 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1319, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1245, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1291, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1240, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1008, in _send_output
+    self.send(msg)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 948, in send
+    self.connect()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 919, in connect
+    self.sock = self._create_connection(
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/socket.py", line 787, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    html = urlopen(req).read()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1348, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1322, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+2021-11-07 17:59:08,646 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1319, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1245, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1291, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1240, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1008, in _send_output
+    self.send(msg)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 948, in send
+    self.connect()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 919, in connect
+    self.sock = self._create_connection(
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/socket.py", line 808, in create_connection
+    raise err
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/socket.py", line 796, in create_connection
+    sock.connect(sa)
+OSError: [Errno 51] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    html = urlopen(req).read()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1348, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1322, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 51] Network is unreachable>
+
+2021-11-07 17:59:18,654 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1319, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1245, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1291, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1240, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1008, in _send_output
+    self.send(msg)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 948, in send
+    self.connect()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 919, in connect
+    self.sock = self._create_connection(
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/socket.py", line 787, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    html = urlopen(req).read()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1348, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1322, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+2021-11-07 17:59:28,663 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1319, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1245, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1291, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1240, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1008, in _send_output
+    self.send(msg)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 948, in send
+    self.connect()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 919, in connect
+    self.sock = self._create_connection(
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/socket.py", line 787, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    html = urlopen(req).read()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1348, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1322, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+2021-11-07 17:59:38,674 - main.Topic - ERROR: Traceback (most recent call last):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1319, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1245, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1291, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1240, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 1008, in _send_output
+    self.send(msg)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 948, in send
+    self.connect()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/http/client.py", line 919, in connect
+    self.sock = self._create_connection(
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/socket.py", line 787, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/socket.py", line 918, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/zhangyan/Desktop/hk/spider_weibo/spider/topic/topic.py", line 119, in download
+    html = urlopen(req).read()
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 525, in open
+    response = self._open(req, data)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1348, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/urllib/request.py", line 1322, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+
+2021-11-07 17:59:38,676 - main.Topic - ERROR: Internet Connect Error!
+2021-11-07 17:59:38,676 - main.Topic - INFO: url: http://s.weibo.com/weibo?q=S11&typeall=1&suball=1&timescope=custom:2021-10-11-10:2021-11-05-12&Refer=g&page=32
+2021-11-07 17:59:38,676 - main.Topic - INFO: page: 32
+2021-11-07 17:59:38,676 - main.Topic - ERROR: Network Not Connected!
+2021-11-08 13:44:44,365 - main - INFO: 2021-02-25-02:2021-03-15-10
